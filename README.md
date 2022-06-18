@@ -1,5 +1,5 @@
 # TFM
-Trabajo fin de Master Ingeniería Informática
+Trabajo fin de Master Ingeniería Informática UCM
 
 # Autor
 Alicia Joy Ramirez
